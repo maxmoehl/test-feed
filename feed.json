@@ -1,0 +1,13 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "My first test feed",
+  "home_page_url": "https://example.com",
+  "feed_url": "https://example.com/feed.json",
+  "description": "A feed to test if Feedly supports reading JSON Feeds from GitHub Gists.",
+  "language": "en-US",
+  "items":[{
+    "id": "https://example.com/feed/1",
+    "url": "https://example.com/feed/1",
+    "content_text": "This a simple text based feed item to satisfy the JSON Feed spec."
+  }]
+}
